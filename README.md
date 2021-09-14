@@ -14,5 +14,4 @@ Recently, I'm obsessed in the learning and development of the Jetpack Compose. H
 ![YiDong's github stats](https://github-readme-stats.vercel.app/api?username=RugerMcCarthy&show_icons=true&theme=radical)
 
 ## Favorite Music
-Share the music I'm listening to recently
 ![card](https://github.com/RugerMcCarthy/netease-music-card/blob/main/card.svg)
