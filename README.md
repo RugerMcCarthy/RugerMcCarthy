@@ -1,4 +1,4 @@
-# 👋 Hi, I‘m Ruger
+# 👋 Hi, I‘m Roger
 I am an Android developer, and always keen to share interesting knowledge in tech community, and also is a video game enthusiast.
 
 Recently, I'm obsessed in the learning and development of the Jetpack Compose. Hoping that the code I contributed can help you!
